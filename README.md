@@ -23,7 +23,7 @@
 
 3. Criando pasta env:
    ```bash
-   cp .env.example .env
+   cp .env.local .env
    ```
 
 4. Iniciando o Servidor:
