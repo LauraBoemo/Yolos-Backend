@@ -11,7 +11,7 @@
 
 1. Clonando o repositório:
    ```bash
-   git clone [git@github.com:LauraBoemo/MBLabs-Yolos-BACK.git](https://github.com/LauraBoemo/MBLabsYolos-Backend)
+   git clone https://github.com/LauraBoemo/Yolos-Backend
    ```
    
 2. Instalando as dependências:
@@ -49,10 +49,10 @@ yarn seed
 1. Necessário ter instalado: [Postman](https://www.postman.com/downloads/)
 2. Abre o Postman.
 3. Clique em "Import"...
-   ![Imgur](https://imgur.com/a/PHTaVsa)
+   https://imgur.com/a/PHTaVsa
 
-4. COloca esse link aqui...
+4. Coloca esse link aqui...
    ```bash
    https://www.getpostman.com/collections/8433c3b38e5cf18bcfd0
    ```
-   ![Imgur](https://imgur.com/a/g2ENENf)
+   https://imgur.com/a/g2ENENf
