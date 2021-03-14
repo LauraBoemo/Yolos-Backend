@@ -18,8 +18,8 @@
    ```bash
    npm install
    # ou
-   yarn add
-   ```
+   yarn
+  ```
 
 3. Criando pasta env:
    ```bash
@@ -40,9 +40,9 @@
 
 6. Seeding - Inserindo dados fictícios dentro do banco com esse comando:
 
-```bash
-yarn seed
-```
+  ```bash
+  yarn seed
+  ```
 
 ### BÔNUS! Importando a API no Postman...
 
@@ -56,3 +56,5 @@ yarn seed
    https://www.getpostman.com/collections/8433c3b38e5cf18bcfd0
    ```
    https://imgur.com/a/g2ENENf
+
+...:)
