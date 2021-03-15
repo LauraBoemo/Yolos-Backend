@@ -1,10 +1,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/LauraBoemo/Yolos-Backend">
-    <img src="images/YolosLogo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/LogoName.jpg" alt="Logo" width="594" height="170">
   </a>
 
-  <h2 align="center">YOLOS. <> Em busca de sua próxima festa.</h2>
+  <h2 align="center">.</h2>
 
   <p align="center">
     Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
