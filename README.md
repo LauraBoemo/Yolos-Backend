@@ -4,13 +4,12 @@
     <img src="images/YolosLogo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">YOLOS.</h1>
-  <h3 align="center">Em busca de sua próxima festa.</h3>
+  <h1 align="center">YOLOS.</h1><h3 align="center">Em busca de sua próxima festa.</h3>
 
   <p align="center">
     Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
     <br />
-    .
+    <br />
     <a href="https://www.figma.com/file/emQCaBiNmvkO4Qq8UPzwMC/ProjetoMBLabs-%3C%3E-Laura"><strong>Explore o Protótipo »</strong></a>
     .
     <a href="https://trello.com/b/s8bwvtkG/projetomblabs-laura">Confira o projeto da Yolos. no Trello!</a>
