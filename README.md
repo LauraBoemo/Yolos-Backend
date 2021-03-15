@@ -4,7 +4,7 @@
     <img src="images/YolosLogo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">YOLOS. <h3 align="center">Em busca de sua próxima festa.</h3></h1>
+  <h2 align="center">YOLOS.</h2><h3 align="center">Em busca de sua próxima festa.</h3>
 
   <p align="center">
     Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
