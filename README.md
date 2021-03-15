@@ -1,25 +1,23 @@
-# Olá! 👋
-## Vocês provávelmente não precisam disso... mas eu sim hehe
-
 <br />
 <p align="center">
   <a href="https://github.com/LauraBoemo/Yolos-Backend">
     <img src="images/YolosLogo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOLOS.</h3>
+  <h1 align="center">YOLOS.</h1>
+  <h3 align="center">Em busca de sua próxima festa.</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    .
+    <a href="https://www.figma.com/file/emQCaBiNmvkO4Qq8UPzwMC/ProjetoMBLabs-%3C%3E-Laura"><strong>Explore o Protótipo »</strong></a>
+    .
+    <a href="https://trello.com/b/s8bwvtkG/projetomblabs-laura">Confira o projeto da Yolos. no Trello!</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://www.notion.so/Projeto-Yolos-MBLabs-cb58858434864f2faf805e2351879ab8">Confira o Notion da Yolos.!</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/LauraBoemo/Yolos-Frontend">Confira o Front da Yolos.!</a>
   </p>
 </p>
 
