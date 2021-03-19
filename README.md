@@ -71,6 +71,7 @@
 2. Abre o Postman.
 3. Clique em "Import"...
 4. Coloca esse link aqui...
+
    ```bash
     https://www.getpostman.com/collections/8433c3b38e5cf18bcfd0
    ```
