@@ -42,7 +42,7 @@
    # ou
    yarn
   ```
-
+```
 3. Criando pasta env:
    ```bash
    cp .env.local .env
@@ -71,12 +71,7 @@
 1. Necessário ter instalado: [Postman](https://www.postman.com/downloads/)
 2. Abre o Postman.
 3. Clique em "Import"...
-   https://imgur.com/a/PHTaVsa
-
 4. Coloca esse link aqui...
    ```bash
    https://www.getpostman.com/collections/8433c3b38e5cf18bcfd0
    ```
-   https://imgur.com/a/g2ENENf
-
-...:)
