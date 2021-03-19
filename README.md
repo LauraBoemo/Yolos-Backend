@@ -12,18 +12,16 @@
     <img src="images/Imagem.jpg" alt="Logo">
   </a>
 </p>
-    
-  <p align="center">
-    Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
+
+<br />    
+<p align="center">    
+    <a href="https://www.figma.com/file/emQCaBiNmvkO4Qq8UPzwMC/ProjetoMBLabs-%3C%3E-Laura"><strong>Explore o Protótipo! »</strong></a>
     <br />
+    <a href="https://trello.com/b/s8bwvtkG/projetomblabs-laura"><strong>Explore o Trello! »</strong></a>
     <br />
-    <a href="https://www.figma.com/file/emQCaBiNmvkO4Qq8UPzwMC/ProjetoMBLabs-%3C%3E-Laura"><strong>Explore o Protótipo »</strong></a>
+    <a href="https://www.notion.so/Projeto-Yolos-MBLabs-cb58858434864f2faf805e2351879ab8"><strong>Confira o Notion da Yolos.! »</strong></a>
     <br />
-    <a href="https://trello.com/b/s8bwvtkG/projetomblabs-laura">Confira o projeto da Yolos. no Trello!</a>
-    ·
-    <a href="https://www.notion.so/Projeto-Yolos-MBLabs-cb58858434864f2faf805e2351879ab8">Confira o Notion da Yolos.!</a>
-    ·
-    <a href="https://github.com/LauraBoemo/Yolos-Frontend">Confira o Front da Yolos.!</a>
+    <a href="https://github.com/LauraBoemo/Yolos-Frontend"><strong>Confira o Front da Yolos.! »</strong></a>
   </p>
 </p>
 
