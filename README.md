@@ -13,8 +13,7 @@
   </a>
 </p>
 
-<br />    
-<p align="center">    
+<br />
     <a href="https://www.figma.com/file/emQCaBiNmvkO4Qq8UPzwMC/ProjetoMBLabs-%3C%3E-Laura"><strong>Explore o Protótipo! »</strong></a>
     <br />
     <a href="https://trello.com/b/s8bwvtkG/projetomblabs-laura"><strong>Explore o Trello! »</strong></a>
@@ -22,8 +21,7 @@
     <a href="https://www.notion.so/Projeto-Yolos-MBLabs-cb58858434864f2faf805e2351879ab8"><strong>Confira o Notion da Yolos.! »</strong></a>
     <br />
     <a href="https://github.com/LauraBoemo/Yolos-Frontend"><strong>Confira o Front da Yolos.! »</strong></a>
-  </p>
-</p>
+<br />
 
 ### Necessário...
 
