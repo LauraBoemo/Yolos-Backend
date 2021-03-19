@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LauraBoemo/Yolos-Backend">
-    <img src="images/LogoName.png" alt="Logo" width="580" height="170">
+    <img src="images/Imagem.jpg" alt="Logo" width="1920" height="1080">
   </a>
 
   <p align="center">
