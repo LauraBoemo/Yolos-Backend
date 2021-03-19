@@ -41,12 +41,11 @@
    npm install
    # ou
    yarn
-  ```
-```
-3. Criando pasta env:
-   ```bash
-   cp .env.local .env
    ```
+3. Criando pasta env:
+    ```bash
+    cp .env.local .env
+    ```
 
 4. Iniciando o Servidor:
    ```bash
@@ -61,10 +60,9 @@
    ```
 
 6. Seeding - Inserindo dados fictícios dentro do banco com esse comando:
-
-  ```bash
-  yarn seed
-  ```
+    ```bash
+    yarn seed
+    ```
 
 ### BÔNUS! Importando a API no Postman...
 
