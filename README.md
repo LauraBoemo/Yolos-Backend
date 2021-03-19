@@ -4,12 +4,12 @@
     <img src="images/Imagem.jpg" alt="Logo">
   </a>
   
-    ```bash
+    
     🎉 First of All: Special thanks 🎉
     I would like to thank the developer Zeeshan (@ziishaned), his charisma, goodwill and dedication motivated and 
     guided me when I was most lost. I couldn't have done it without your help, Zeeshan. Thank you very, very much. 
     I hope someday to be like you :)
-   ``` ``` 
+   ```<3``` 
     
   <p align="center">
     Este App foi desenvolvido visando concluir o desafio proposto pela empresa MBLabs.
